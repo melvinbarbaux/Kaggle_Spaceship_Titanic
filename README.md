@@ -1,6 +1,6 @@
 # Spaceship Titanic
 
-This is my second attempt at a [Kaggle competition](https://www.kaggle.com/melvinbarbaux/competitions) 
+This is my second attempt at a [Kaggle competition](https://www.kaggle.com/melvinbarbaux/competitions).   
 The dataset is available at the [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic).
 
 ## Requirements
