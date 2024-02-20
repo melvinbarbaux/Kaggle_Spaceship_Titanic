@@ -5,15 +5,15 @@ The dataset is available at the [Spaceship Titanic](https://www.kaggle.com/compe
 
 ## Requirements
 
-- 'pandas'
-- 'lightgbm'
-- 'xgboost'
-- 'catboost'
-- 'matplotlib'
-- 'numpy
-- 'sklearn'
-- 'tensorflow'
-- 'keras'
+- `pandas`
+- `lightgbm`
+- `xgboost`
+- `catboost`
+- `matplotlib`
+- `numpy`
+- `sklearn`
+- `tensorflow`
+- `keras`
 
 
 
